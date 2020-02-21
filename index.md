@@ -7,14 +7,13 @@
 <p><b>电话：18888603020</b></p>
 <p><b>邮箱：1923202762@qq.com</b></p>
 <p><b>地址：浙江省金华市义乌市</b></p>
-      </td>
-   
-  <td width="%25">
-  <img src="/jkqjkqjkq.jpg" width="100%">
-  </td>
+    </td>
      </tr>
    </table>
    
+   <td width="%25">
+  <img src="/jkqjkqjkq.jpg" width="100%">
+  </td>  
    
 ###教育背景
 ###学历：本科
