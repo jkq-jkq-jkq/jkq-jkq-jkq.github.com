@@ -11,7 +11,7 @@
     </td>
     
        <td width="%25">
-  <img src="/jkqjkqjkq.jpg" width="100%">
+  <img src="/jkqjkqjkq.jpg" width="75%">
   </td>  
      </tr>
    </table>
