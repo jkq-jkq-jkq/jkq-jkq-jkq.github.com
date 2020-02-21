@@ -8,9 +8,9 @@
 <p><b>邮箱：1923202762@qq.com</b></p>
 <p><b>地址：浙江省金华市义乌市</b></p>
       </td>
-    
+   
   <td width="%25">
-  <img src="/jkq.jpq.jpg" width="%100">
+  <img src="/jkq.jpg.jpg" width="%100">
   </td>
      </tr>
    </table>
