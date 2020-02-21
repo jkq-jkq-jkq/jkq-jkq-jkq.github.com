@@ -10,11 +10,11 @@
 <p><b>主修课程： C语言 Java 数据库 单片机 通信原理 计算机网络 光纤通信</b></p>
     </td>
     
-     
+   <td> 
   <img src="/jkqjkqjkq.jpg" width="100%">
   </td>  
-     </tr>
-   </table>
+  </tr>
+  </table>
    
 <table border="0">
   <tr>
