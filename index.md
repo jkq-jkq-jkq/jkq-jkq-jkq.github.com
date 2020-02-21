@@ -13,7 +13,7 @@
    </td>
     
    <td width="%100"> 
-  <img src="/jkqjkqjkq.jpg" width="100%">
+  <img src="jkqjkqjkq.jpg" width="100%">
   </td>  
   </tr>
   </table>
